@@ -1,6 +1,6 @@
- # ¡Hola! Soy [Tu Nombre] 👋
+ # ¡Hola! Soy Ever Garcia 👋
 
-Un apasionado **Ingeniero en Sistemas / Desarrollador de Software** enfocado en crear soluciones eficientes, escalables y con un gran diseño de interfaz.
+Un apasionado **Ingeniero en Sistemas** enfocado en crear soluciones eficientes, escalables y con un gran diseño.
 
 ---
 
@@ -10,7 +10,7 @@ Un apasionado **Ingeniero en Sistemas / Desarrollador de Software** enfocado en 
 - 🌱 **Aprendiendo continuamente:** Nuevas tecnologías de arquitectura de software y optimización.
 - 💼 **Experiencia principal:** Desarrollo Full Stack y gestión de bases de datos.
 - 💬 **Hablemos de:** React, SQL, diseño de UI/UX y buenas prácticas de desarrollo.
-- 📫 **Contacto:** `tu-email@ejemplo.com` | [LinkedIn](https://linkedin.com/in/tu-usuario)
+- 📫 **Contacto:** `tu-email@ejemplo.com` | [LinkedIn](www.linkedin.com/in/ever-josue-garcia-leonor-a30ab5296)
 
 ---
 
