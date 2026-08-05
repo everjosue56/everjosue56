@@ -10,7 +10,7 @@ Un apasionado **Ingeniero en Sistemas** enfocado en crear soluciones eficientes,
 - 🌱 **Aprendiendo continuamente:** Nuevas tecnologías de arquitectura de software y optimización.
 - 💼 **Experiencia principal:** Desarrollo Full Stack y gestión de bases de datos.
 - 💬 **Hablemos de:** React, SQL, diseño de UI/UX y buenas prácticas de desarrollo.
-- 📫 **Contacto:** `elever744@gmail.com` | [LinkedIn](https://www.linkedin.com/in/ever-josue-garcia-leonor-a30ab5296/)
+- 📫 **Contacto:** `[Email](elever744@gmail.com)` | [LinkedIn](https://www.linkedin.com/in/ever-josue-garcia-leonor-a30ab5296/)
 
 ---
 
