@@ -45,13 +45,5 @@ Un apasionado **Ingeniero en Sistemas** enfocado en crear soluciones eficientes,
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-AQUI&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de GitHub" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-AQUI&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" height="175" />
-</div>
 
  
