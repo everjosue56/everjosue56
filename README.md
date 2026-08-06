@@ -2,7 +2,15 @@
 
 Un apasionado **Ingeniero en Sistemas** enfocado en crear soluciones eficientes, escalables y con un gran diseño.
 
+<p align="center">
+  <a href="https://ever-garcia.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_EXPLORAR_MI_PORTAFOLIO_WEB-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Mi Portafolio Web" height="45" />
+  </a>
+</p>
+
+
 ---
+
 
 ###  Sobre mí
 
@@ -45,7 +53,6 @@ Un apasionado **Ingeniero en Sistemas** enfocado en crear soluciones eficientes,
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-[![Portafolio](https://img.shields.io/badge/🌐_Mi_Portafolio_Web-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://ever-garcia.vercel.app/)
 
 
  
